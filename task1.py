@@ -24,5 +24,3 @@ while True:
 
     else:
         print("Invalid choice. Please enter 1, 2, or 3.")
-
-# NLTK is a leading platform for building Python programs to work with human language data. NLTK is available for Windows, Mac OS X, and Linux. Best of all, NLTK is a free, open source, community-driven project.
